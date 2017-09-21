@@ -17,5 +17,11 @@ namespace MathsComponentNameSpace
         {
             return numb1 - numb2;
         }
+
+        public int Product(int numb1, int numb2)
+        {
+            return numb1 * numb2;
+        }
+
     }
 }

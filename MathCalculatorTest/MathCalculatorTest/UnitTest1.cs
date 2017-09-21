@@ -30,5 +30,13 @@ namespace MathCalculatorTest
             int result = obj.Subtract(10, 5);
             Assert.AreEqual(5, result);
         }
+
+        [TestMethod]
+        public void TestProduction()
+        {
+            MathsComponent obj = new MathsComponent();
+            int result = obj.Product(10, 10);
+            Assert.AreEqual(100, result);
+        }
     }
 }
