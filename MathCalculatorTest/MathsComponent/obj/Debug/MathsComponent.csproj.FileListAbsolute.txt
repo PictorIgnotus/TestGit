@@ -1,0 +1,6 @@
+C:\git\TestGit\MathCalculatorTest\MathsComponent\bin\Debug\MathsComponent.dll
+C:\git\TestGit\MathCalculatorTest\MathsComponent\bin\Debug\MathsComponent.pdb
+C:\git\TestGit\MathCalculatorTest\MathsComponent\obj\Debug\MathsComponent.csprojResolveAssemblyReference.cache
+C:\git\TestGit\MathCalculatorTest\MathsComponent\obj\Debug\MathsComponent.csproj.CoreCompileInputs.cache
+C:\git\TestGit\MathCalculatorTest\MathsComponent\obj\Debug\MathsComponent.dll
+C:\git\TestGit\MathCalculatorTest\MathsComponent\obj\Debug\MathsComponent.pdb
